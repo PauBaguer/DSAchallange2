@@ -1,4 +1,4 @@
-# DSAchallange2
+# DSAchallange2 -> Pila
 
 * Pau Baguer Fàbrega
 * Júlia Alós Mairal
